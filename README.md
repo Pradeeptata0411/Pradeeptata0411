@@ -2,7 +2,9 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</br>
 👩🏻‍🎓 Studied [Computer Science](https://www.linkedin.com/in/tata-pradeep-51b911226/
 ) at the KL University , Vijayawada</br>
-</br>
+💻 Passionate about solving complex problems and delivering innovative solutions</br>
+🌱 Constantly learning and evolving</br>
+🤝 Love collaborating and contributing to impactful projects</br>
 
 
 ## 🌐 Socials:
