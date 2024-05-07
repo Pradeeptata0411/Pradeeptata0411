@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pradeeptata0411&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pradeep0411&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pradeeptata0411&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
