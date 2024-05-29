@@ -15,9 +15,7 @@
     <img src="https://github.com/Pradeeptata0411/Pradeeptata0411/assets/109360049/18018d77-8442-4578-b100-1eedfb3f8a98" alt="AWS Certified Practitioner" style="width: 150px; height: 150px;">
 </a>
 
-<a href="YOUR_AWS_DA_URL" target="_blank">
-    <img src="https://github.com/Pradeeptata0411/Pradeeptata0411/assets/109360049/3e609689-4a24-4851-a1dc-2473d2cdd0d7" alt="AWS Certified Data Analytics" style="width: 150px; height: 150px;">
-</a>
+
 
 <a href="https://www.credly.com/badges/debeed4c-bfe5-4851-a71b-5d804df81c04/public_url" target="_blank">
     <img src="https://github.com/Pradeeptata0411/Pradeeptata0411/assets/109360049/5360e49e-0a16-45c9-9cf5-4dfc96c7f0f3" alt="Red Hat Certification" style="width: 150px; height: 150px;">
