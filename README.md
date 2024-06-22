@@ -5,6 +5,7 @@
 💻 Passionate about solving complex problems and delivering innovative solutions</br>
 🌱 Constantly learning and evolving</br>
 🤝 Love collaborating and contributing to impactful projects</br>
+👉[my website](https://pradeep-tata-0411.netlify.app/)
 
 
 ## 🌐 Socials:
